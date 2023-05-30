@@ -1,5 +1,5 @@
 # :star: AltimetrikGameFinderApp :star:
-## Second Chapter 
+ 
 
 This is my project developed on the Bootcamp of Altimetrik Become a Front End Developer 2nd edition. There is a long way to go yet, but I'm really happy with the result so far. I learn a lot, and when i say al lot is A LOT indeed 
 
