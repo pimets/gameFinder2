@@ -5,7 +5,7 @@ This is my project developed on the Bootcamp of Altimetrik Become a Front End De
 
 I made the pages from scratch form Figma design, with HTML, CSS and Vanilla JavaScript. The first page has a Log in working with Json server for authentication. The second page is a searching game platform, with more than 3.500 games!
 
-I let here two snapshots to see how it looks like :eyes:
+I leave here two snapshots to see how it looks like :eyes:
 
 
  ![image](https://user-images.githubusercontent.com/103943889/177362490-2cdb0f59-8d7b-4585-b5ef-ebd931815724.png)
